@@ -193,15 +193,15 @@
 
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
-  <None>Ninguno</None>
+  <None>Nulo(a)</None>
   <!-- EN: Very poor -->
-  <VeryPoor>Escaso</VeryPoor>
+  <VeryPoor>Casi nulo(a)</VeryPoor>
   <!-- EN: Poor -->
   <Poor>Pobre</Poor>
   <!-- EN: Weakened -->
-  <Weakened>Débil</Weakened>
+  <Weakened>Casi Normal</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>OK</GoodCondition>
+  <GoodCondition>Normal</GoodCondition>
   <!-- EN: Enhanced -->
   <Enhanced>Mejorado</Enhanced>
   <!-- EN: Seriously impaired -->
